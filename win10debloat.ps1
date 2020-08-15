@@ -80,8 +80,8 @@ $tweaks = @(
 	"DisableMeltdownCompatFlag", # "EnableMeltdownCompatFlag"    
 
 	### Service Tweaks ###
-	"DisableUpdateMSRT",          # "EnableUpdateMSRT",
-"EnableUpdateDriver",			# "DisableUpdateDriver",
+	"EnableUpdateMSRT",			# "DisableUpdateMSRT",
+	"EnableUpdateDriver",			# "DisableUpdateDriver",
 	"DisableUpdateRestart",         # "EnableUpdateRestart",
 	"DisableHomeGroups",          # "EnableHomeGroups",
 	"DisableSharedExperiences",     # "EnableSharedExperiences",
