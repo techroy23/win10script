@@ -67,7 +67,7 @@ $tweaks = @(
 	"DisableLLMNR",               # "EnableLLMNR",
 	"SetCurrentNetworkPrivate",     # "SetCurrentNetworkPublic",
 	"SetUnknownNetworksPrivate",  # "SetUnknownNetworksPublic",
-	"DisableNetDevicesAutoInst",  # "EnableNetDevicesAutoInst",
+	"EnableNetDevicesAutoInst",	# "DisableNetDevicesAutoInst",
 	"DisableCtrldFolderAccess",	# "EnableCtrldFolderAccess",
 	"DisableFirewall",            # "EnableFirewall",
 	"DisableDefender",            # "EnableDefender",
